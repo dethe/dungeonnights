@@ -4,7 +4,7 @@ title:  "Mushroom Village"
 date:   2016-09-13 15:54:55 -0700
 categories: dungeonworld chronicle
 ---
-![Underground Village](/dw-chronicles/images/village.png)
+![Underground Village](/images/village.png)
 
 > We had half the players from last week and two new players, so this was a good exercise in working
 > new characters into the story and explaining why the earlier characters are not in the party. Fear
