@@ -3,16 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dungeon World Chronicles
+name: Dungeon Nights
 
 # Short bio or description (displayed in the header)
 description: > # this means to ignore newlines until "baseurl:"
-  This will be a record of the Dungeon World games I have DM'd and a place
+  This will be a record of the Dungeon World games I lead and a place
   to put any additional resources such as custom moves, creatures, locations,
   etc.
 
-  If you are interested in playing in one of my games, contact me on
-  Twitter.
+  If you are interested in playing with us, contact me on Twitter.
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -34,17 +33,17 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-3380570-7
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://dethe.github.io/dw-chronicles/
+url: http://dungeonnights/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/dw-chronicles"
+baseurl: "/dungeonworld"
 
 #
 # !! You don't need to change any of the configuration flags below !!
