@@ -9,11 +9,11 @@ are:
 
 * Chris as Wolfric Shadowfear the Cleric of Azure
 * Sara as Rook the Thief
-* Gloria Kalmar as Chameleon the Druid
-* Azlen Elza as Tsafnur the Bard
+* Gloria Kalmar as Chameleon the Druid (and many animals)
+* Tsafnur the Bard as Himself
 * Sarah Felkar as Clovis the Barbarian
-* Melody Enkirash the Wizard
-* Marie Campbell Talisa the Ranger and Mija the Watersphinx (a type of cougar)
+* Melody as Enkirash the Wizard
+* Marie Campbell as Talisa the Ranger and Mija the Watersphinx
 * Dethe Elza as the Dungeon Master and Chronicler
 
 ### Contact me
