@@ -82,14 +82,63 @@ Talisa's water sphinx, in the hall and getting hissed at in passing.
 > as we play what powers, if any, each of the items holds. They also chose to make
 > camp in the bedchamber, and Clovis levelled up.
 
-The party spends what they guess is a night in the chamber and before they leave, each chose
-what they wanted to carry back from the loot.
+> Loot I described before the players began describing what they would take: A large
+> and heavy candelabra (6' tall) of black metal, radiates a strong sense of evil,
+> A large (5' x 4') painting of a chained woman in an ornate frame. Painting and
+> frame look very old in style, but are completely new looking and unmarred.
+> A gold and platinum ring, as the only thing in a drawer of the bedside table.
+> A large, heavy spear with a broad blade and runes worked into the shaft and blade.
+> The idol of the mushroom people, extremely heavy. A bag of assorted mushrooms (20 uses).
 
-* Finding an easier way back to the mushroom village
-* Two pathways, one smooth and slanting down, the other uneven and treacherous
-    * Obvious trap is obvious and also a trap
-    * Chameleon explores as bat, finds turkey avengers
-    * Party takes other path, find submerged boat
-    * Following the stream downstream, encounter mushroom people fleeing village
-    * Return mushroom idol, get rewards
-* No cliffhanger tonight
+The party spends what they guess is a night in the chamber and before they leave, each chose
+what they wanted to carry back from the loot. Enkirash chose a bow and arrows, some potions,
+and the ring from the side table. Tsafnur chose a songbook in a forgotten tongue (the
+language was forgotten because it was invented for these songs, but there is a key to
+pronunciation. the book is made of parchment of human skin), and a small
+drum he can attach to his belt and play one-handed. Chameleon took a golden torch,
+a golden compass, a jewelled silver dagger, and the spear. Clovis chose a sparkly
+bracelet and a shiny helmet. Talisa found her father's belt buckle that Hurbekt had
+taken when she was first captured, a bow and arrows, and a crude ceramic pig.
+
+Rather than try to climb (while lugging the heavy idol and the large framed painting) up
+to the tunnel they entered the sacrifice room from, they decide to try the unexplored
+tunnel leading off from that room and try to find an easier way back to the mushroom
+village. The passage starts off well enough and leads roughly in the right direction,
+but they know they need to go down at some point, since they climbed quite a bit
+while chasing after the gargoyles (or being carried by them in some cases).
+
+The path comes to a small chamber and forks. There is a smooth, almost polished
+way leading down and to the left, going further than Enkirash's light can reach.
+Ahead, after a slight jog to the right, there is a rough, uneven and treacherous
+looking passage bending and curving out of sight. Chameleon tries her golden
+compass, trying to get it to point the best way, but it does not appear to do
+anything, the needle doesn't move at all.
+
+Looking more closely, the smooth
+passageway is not only polished, but actually greased. Chameleon resumes her bat
+form and explores the darkness below, finding a large chamber at the bottom, a
+pit full of some viscous liquid, and about six turkey-headed humanoids with spears
+waiting at the bottom of the slide. So the obvious trap is indeed a trap. She
+returns to the others and they decide to take the uneven passage.
+
+> I was slightly disappointed that no-one went down the slide and encountered the
+> turkey avengers, but only because it was Canadian Thanksgiving.
+
+They come to stream flowing from right to left. There is a rowboat here, but it is
+submerged and they decide not to try to raise it. The passage continues across the
+stream, but while it isn't a large stream, it looks deep and the water is fast
+moving. There is also a path going along the stream in both directions. They
+decide to follow the path downstream, hoping that this is the stream which flows
+past the mushroom village.
+
+As they walk, they hear before they can see, a large group coming upstream towards
+them. It is the entire population of the mushroom village, carrying all their
+worldly possessions (some have carts). They greet the party and are happy to have
+their idol returned. They have very little of value, but give each of the party
+a few coins. For Enkirash they have a pouch with more assorted medicinal mushrooms.
+They also give two scrolls to Tsafnur.
+
+The Myconids are fleeing a horrible monster which apparently (as far as they know)
+slew their necromancer who was protecting the village. Tsafnur volunteered the party
+to slay the monster. They all make camp together for the night, enjoy some mushroom
+beer/soup (mmm, parsley!), and prepare to go their separate ways in the morning.
