@@ -97,7 +97,7 @@ horribly scarred man at the bar, who fights her instead (and loses).
 
 His companion, a fly-faced humanoid, is impressed and hits on Clovis, who goes home with him.
 
-![Pondababa](/images/Pondababa.jpg)
+![Pondababa](/images/Pondababa.png)
 
 In the morning, they decide it is probably best to get out of town before Nameless
 catches up with them, or worse.
