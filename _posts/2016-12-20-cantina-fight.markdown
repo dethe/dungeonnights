@@ -101,3 +101,9 @@ His companion, a fly-faced humanoid, is impressed and hits on Clovis, who goes h
 
 In the morning, they decide it is probably best to get out of town before Nameless
 catches up with them, or worse.
+
+> This was a hilarious session, one of the side effects was players googling "Sexy Owlbear"
+> which turns out to be a thing.
+
+![Female Moonkin](http://orig01.deviantart.net/b5b9/f/2010/240/8/b/female_boomkin_by_karnokoto-d2xielj.jpg)
+![
