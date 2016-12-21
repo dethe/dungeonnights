@@ -106,4 +106,3 @@ catches up with them, or worse.
 > which turns out to be a thing.
 
 ![Female Moonkin](http://orig01.deviantart.net/b5b9/f/2010/240/8/b/female_boomkin_by_karnokoto-d2xielj.jpg)
-![
