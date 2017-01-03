@@ -27,3 +27,5 @@ Clovis sidesteps the boar's charge and strikes it in the neck with the poisoned 
 Clovis, Talisa, and Chameleon take tusks from the boar (it had four tusks), and Rook guts it (in a rad and metal way) to extract a bezoar stone from the boar's guts.
 
 ![Bezoar Stone](/images/bezoar.jpg)
+
+> Special thanks to Sara (Rook) for awesome note-taking!

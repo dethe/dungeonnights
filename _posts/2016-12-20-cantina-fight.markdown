@@ -79,18 +79,11 @@ lives outside of town in an iron tower.
 Then they went bar-hopping. First up, The Dragon and Coward Inn. Clovis picked a fight with
 a smuggler in the corner and easily took him out. He had an owlbear companion who was not
 so easily bested, but she eventually wrestled it into submission. Tsafnur made good money
-betting on her. After the fight, they find Rook was watching the whole time and they have
+betting on her, although he gets some suspicious looks when he uses his music to heal Clovis during the fight.
+After the fight, they find Rook was watching the whole time and they have
 a reunion.
 
-Then they visit The Sinking Hole and Clovis gets in a wrestling match with man
-who looks easy to beat, but they end up in a long drawn out brawl until they both can
-barely stand. At one point he rips off her Choker of Ostentatiousness and throws it
-into the crowd. Someone slips out the door with it, but Chameleon follows them, and turns
-into her great osprey form to swoop down in an alley and take back the choker, returning
-just as Clovis finally triumphs. During the match, Rook picked a pocket, but drew attention
-to herself, so they head out of the bar after Tsafnur collects his winnings from more bets.
-
-At the final bar of the evening, The Whisker and the Weasel, Clovis makes a pass at a
+At the next bar, The Whisker and the Weasel, a very drunk Clovis makes a pass at a
 horribly scarred man at the bar, who fights her instead (and loses).
 
 ![Evazan](/images/Evazan.jpg)
@@ -99,6 +92,14 @@ His companion, a fly-faced humanoid, is impressed and hits on Clovis, who goes h
 
 ![Pondababa](/images/Pondababa.png)
 
+The next day they visit The Sinking Hole and Clovis gets in a wrestling match with man
+who looks easy to beat, but they end up in a long drawn out brawl until they both can
+barely stand. At one point he rips off her Choker of Ostentatiousness and throws it
+into the crowd. Someone slips out the door with it, but Chameleon follows them, and turns
+into her great osprey form to swoop down in an alley and take back the choker, returning
+just as Clovis finally triumphs (barely standing herself by that point). During the match, Rook picked a pocket, but drew attention
+to herself, so they head out of the bar after Tsafnur collects his winnings from more bets.
+
 In the morning, they decide it is probably best to get out of town before Nameless
 catches up with them, or worse.
 
@@ -106,3 +107,5 @@ catches up with them, or worse.
 > which turns out to be a thing.
 
 ![Female Moonkin](http://orig01.deviantart.net/b5b9/f/2010/240/8/b/female_boomkin_by_karnokoto-d2xielj.jpg)
+
+> Updated with corrections from Sarah (Clovis)
