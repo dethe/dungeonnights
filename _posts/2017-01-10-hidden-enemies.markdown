@@ -2,7 +2,7 @@
 layout: post
 title:  "Hidden Enemies"
 date:   2017-01-10 15:54:55 -0700
-categories: dungeonworld lizarmen chameleonwomen labyrinth minotaur
+categories: dungeonworld lizardmen chameleonwomen labyrinth minotaur
 ---
 ![Chameleon Woman](/images/chameleon_woman.jpg)
 
