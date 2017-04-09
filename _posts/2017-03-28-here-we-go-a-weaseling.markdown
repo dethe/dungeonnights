@@ -1,19 +1,19 @@
 ---
 layout: post
 title:  "Here We Go A-Weaseling"
-date:   2017-03-14 15:54:55 -0700
+date:   2017-04-09 15:54:55 -0700
 categories: dungeonworld weasels orcs liberation dwarfs baths
 ---
 ![Orc Slaver](http://pre08.deviantart.net/f030/th/pre/i/2015/254/0/6/orc_slaver_by_jaasif-d996z2q.jpg)
 
-> Rook tried to ride Mija, who scented something and bolted off and haven't been
+> Rook tried to ride Mija, who scented something and bolted off and they haven't been
 > seen since. Clovis and Tsafnur are still accompanying Genesa home, if they can
 > find their way out of the tunnels and passageways beneath Skagway.
 
 As Clovis and Tsafnur led Genesa up through the tunnels, she soon realized that
 they had no idea how to get back to the surface from the Night Market. But they
 soon came upon someone even more lost than they were, poor Andrew, human cleric of
-Kirt, had been helping carry something for a stranger, while telling them the Good
+Kirt the Clean, had been helping carry something for a stranger, while telling them the Good
 News of Kirt, when they took their stuff back and headed off a dismal looking
 side passage, leaving Andrew alone in the dark trying to find his way out without
 actually touching any of the filthy, slimy walls of the tunnels. He was happy to
@@ -77,6 +77,8 @@ rain on them as they all scrambled to improvise some kind of umbrellas with boug
 and leaves. Soon after that they crossed a trail of slime, nearly washed away, no doubt
 left by the Grumblehut.
 
+![Dwarven Caravan](/images/caravan.png)
+
 Further down the road, soaked through and getting cold, they came across a caravan
 of dwarves. They were none too friendly, searching for missing dwarven children.
 When Clovis told them Grumblesticks was nearby, at first they thought she was making
@@ -96,3 +98,5 @@ like some animal stirring in its burrow, coming nearby tree, with leaves gathere
 a hole in its base. The leaves were pushed out as first one, then another huge
 segmented leg came out, like a giant spider, over six feet tall, but with the head
 and body of a fat baby. It looked at their fire, then at them, and said, "Mommy?"
+
+> And that's where we'll pick up next time, folks. Happy nightmares!
