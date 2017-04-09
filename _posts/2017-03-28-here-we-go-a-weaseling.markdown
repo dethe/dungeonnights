@@ -52,22 +52,22 @@ until the Giant had passed by.
 ## Suddenly, Skagway
 
 At long last, our party finally reached Skagway, Gateway to the Sea. They found
-an inn and then went out on the town, finding a tavern called the Screaming Weasel.
+an inn, had baths, and then went out on the town, finding a tavern called the Screaming Weasel.
 It turns out that the name was a reference to the tavern's most infamous pasttime
 of "weaseling", which is an endurance sport where a group of contestants all have
 weasels shoved into their trousers and whoever can last the longest before the weasel
 escapes or is dragged out is the champion. Clovis signed up immediately. It was a
 tough challenge, but she beat out the reigning champion and now can proudly wear
-the t-shirt, "Weaselling Champion of Skagway."
+the t-shirt, "Weaseling Champion of Skagway."
 
-> In case you thought I made this up, weaselling is based on the real "sport" of Ferret
+> In case you thought I made this up, weaseling is based on the real "sport" of Ferret
 > Legging, which is basically as described, but with ferrets. The difference is that ferrets are domesticated
 > and friendly creatures, whereas weasels are vicious and ferocious hunters.
 
 ![Ferret Legging Mug](https://cdn.shopify.com/s/files/1/0916/7532/products/york_ferret_1024x1024.jpg?v=1460154367)
 
 Clovis spent some of her winnings getting everyone she could massively drunk. She and
-the former weaselling champion found they had a lot in common and went off to find a
+the former weaseling champion found they had a lot in common and went off to find a
 room. The rest of the party went off to the rooms they had already paid for.
 
 The next morning they left Skagway to return Genesa to her home. As they travelled,
