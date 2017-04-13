@@ -4,7 +4,8 @@ title:  "A Day in the Night Market"
 date:   2017-02-28 15:54:55 -0700
 categories: dungeonworld shopping busking
 ---
-![Slave Market](/images/slavemarket.jpg)
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jeremy_forson/2232887669/in/dateposted/" title="Tentacles"><img src="https://c1.staticflickr.com/3/2343/2232887669_302538c55b_z.jpg?zz&#x3D;1" width="640" height="510" alt="Tentacles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 > This session's market scene draws less on Gaiman's Floating Market / Maze of the
 > Blue Minotaur and more on
