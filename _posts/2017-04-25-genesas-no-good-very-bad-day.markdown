@@ -5,7 +5,7 @@ date:   2017-04-25 15:54:55 -0700
 categories: dungeonworld spiderbaby demons book reality war
 ---
 
-![zombisaurus](images/zombisaurus.png)
+![zombisaurus](/images/zombisaurus.png)
 
 > On their way through the woods to Orintheldir Manor, the party encountered many of their missing companions, who had joined up with the local elves and each brought news of the new "town" and the goings-on around it. Enkirash had been travelling with Kaos, an elf veteran, and they were bringing news that the town was harbouring not only human soldiers, but orcs as well, that the orcs had dismantled an entire town elsewhere and moved the buildings here. They were on their way to the farm that our players just left to warn the farmer and help raise a militia (which he is already doing, conveniently enough). Enkirash joins them to help return Genesa home and Kaos goes on to the farm to spread the news. 
 
