@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Day in the Night Market"
+title:  "Dungeon Nights: A Day in the Night Market"
 date:   2017-02-28 15:54:55 -0700
-categories: dungeonworld shopping busking
+categories: dungeonworld shopping busking dungeonnights
 ---
 ![Slave Market](/images/slavemarket.jpg)
 

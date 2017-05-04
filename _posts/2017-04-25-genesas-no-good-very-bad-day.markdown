@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Genesa's No Good Very Bad Day"
+title:  "Dungeon Nights: Genesa's No Good Very Bad Day"
 date:   2017-04-25 15:54:55 -0700
-categories: dungeonworld spiderbaby demons book reality war
+categories: dungeonworld zombies homecoming zombiesaurus dungeonnights
 ---
 
 ![zombisaurus](/images/zombisaurus.png)

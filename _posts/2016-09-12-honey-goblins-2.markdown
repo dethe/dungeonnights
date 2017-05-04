@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Locket of the Honey Goblins, part two"
+title:  "Dungeon Nights: Locket of the Honey Goblins, part two"
 date:   2016-09-12 15:54:55 -0700
-categories: dungeonworld chronicle
+categories: dungeonworld dungeonnights
 ---
 ![Waterfall](/images/waterfall.jpg)
 

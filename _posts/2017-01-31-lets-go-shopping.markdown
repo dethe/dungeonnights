@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Let's go shopping"
+title:  "Dungeon Nights: Let's go shopping"
 date:   2017-01-31 15:54:55 -0700
-categories: dungeonworld labyrinth minotaur stealth refreshments library market
+categories: dungeonworld labyrinth minotaur stealth refreshments library market dungeonnights
 ---
 ![Library image](http://maxpixel.freegreatpicture.com/static/photo/1x/Shelves-Books-Library-1842306.jpg)
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Dark Summoner"
+title:  "Dungeon Nights: The Dark Summoner"
 date:   2016-09-27 15:54:55 -0700
-categories: dungeonworld chronicle gargoyles ritual
+categories: dungeonworld gargoyles ritual dungeonnights
 ---
 ![Gargoyles](http://magickalgraphics.com/Graphics/Dark/Gargoyles/gargoyle33.jpg)
 

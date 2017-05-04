@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This chronicle is the summary of a story being created as a group. The players
-are:
+This chronicle is the summary of a story being created as a group. 
+
+The players for Dungeon Nights are:
 
 * Chris as Wolfric Shadowfear the Cleric of Azure
 * Sara as Rook the Thief
@@ -15,6 +16,15 @@ are:
 * Melody as Enkirash the Wizard
 * Marie as Talisa the Ranger and Mija the Watersphinx
 * Stephanie as Andrew Price, Cleric of Kirt the Clean
+
+The players for Library of Dungeons are:
+
+* Mike as Hock the Fighter
+* Pavel as Rondo the Great Wizard
+* Alex as Hawthorn, Cleric of Zorika the Earth Mother
+
+And in both cases:
+
 * Dethe as the Dungeon Master and Chronicler
 
 ### Contact me

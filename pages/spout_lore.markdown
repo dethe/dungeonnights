@@ -3,7 +3,9 @@ title: Spout Lore
 permalink: spout-lore
 ---
 
-## Facts we have established about the world so far
+Facts we have established about the world so far
+
+## In the world of Dungeon Nights
 
 ### People and creatures of consequence
 
@@ -46,5 +48,11 @@ permalink: spout-lore
 * Azure, God of secrets and hidden knowledge
 * Kirt the Clean
 * T'chalik the Unnerving
+
+## In the world of Library of Dungeons
+
+### Places
+
+* Thornwood, the town the players started from, possibly under attack by a troll
 
 

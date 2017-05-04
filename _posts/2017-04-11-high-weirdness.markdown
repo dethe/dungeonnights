@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "High Weirdness"
+title:  "Dungeon Nights: High Weirdness"
 date:   2017-04-11 15:54:55 -0700
-categories: dungeonworld spiderbaby demons book reality war
+categories: dungeonworld spiderbaby demons book reality war dungeonnights
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/jeremy_forson/2232887669/in/dateposted/" title="Tentacles"><img src="https://c1.staticflickr.com/3/2343/2232887669_302538c55b_z.jpg?zz&#x3D;1" width="640" height="510" alt="Tentacles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

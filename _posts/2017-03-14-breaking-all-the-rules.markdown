@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Breaking All The Rules"
+title:  "Dungeon Nights: Breaking All The Rules"
 date:   2017-03-14 15:54:55 -0700
-categories: dungeonworld laws fight diner revenge
+categories: dungeonworld laws fight diner revenge dungeonnights
 ---
 ![Lizardmen](/images/lizardmen.png)
 

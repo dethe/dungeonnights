@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mushroom Village"
+title:  "Dungeon Nights: Mushroom Village"
 date:   2016-09-13 15:54:55 -0700
-categories: dungeonworld chronicle
+categories: dungeonworld  dungeonnights
 ---
 ![Underground Village](/images/village.png)
 

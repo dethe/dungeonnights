@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Refugees"
+title:  "Dungeon Nights: Refugees"
 date:   2016-12-19 15:54:55 -0700
-categories: dungeonworld chronicle loot myconid
+categories: dungeonworld loot myconid dungeonnights
 ---
 <a title="By Esko Mörkö (Hullu mykologi) [CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMushroom_men_sage_3.jpg"><img width="256" alt="Mushroom men sage 3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mushroom_men_sage_3.jpg/256px-Mushroom_men_sage_3.jpg"/></a>
 

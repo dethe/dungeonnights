@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Locket of the Honey Goblins, part one"
+title:  "Dungeon Nights: Locket of the Honey Goblins, part one"
 date:   2016-08-17 15:54:55 -0700
-categories: dungeonworld chronicle
+categories: dungeonworld dungeonnights
 ---
 ![Battle Image](/images/MunsterBattle.jpg) 
 

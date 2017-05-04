@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Cantina Fight"
+title:  "Dungeon Nights: Cantina Fight"
 date:   2016-12-20 15:54:55 -0700
-categories: dungeonworld chronicle reunion gambling
+categories: dungeonworld reunion gambling dungeonnights
 ---
 ![Chewbacca the Owlbear](http://vignette2.wikia.nocookie.net/gems-of-war/images/b/bc/Troop_Owlbear.png/revision/latest?cb=20160128205026)
 

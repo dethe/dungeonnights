@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Forest on the move"
+title:  "Dungeon Nights: Forest on the move"
 date:   2016-12-21 15:54:55 -0700
-categories: dungeonworld chronicle friends danger
+categories: dungeonworld friends danger dungeonnights
 ---
 ![Enkirash in a Tree](/images/enkirash_in_tree.jpg)
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Here We Go A-Weaseling"
+title:  "Dungeon Nights: Here We Go A-Weaseling"
 date:   2017-04-09 15:54:55 -0700
-categories: dungeonworld weasels orcs liberation dwarfs baths
+categories: dungeonworld weasels orcs liberation dwarfs baths dungeonnights
 ---
 ![Orc Slaver](http://pre08.deviantart.net/f030/th/pre/i/2015/254/0/6/orc_slaver_by_jaasif-d996z2q.jpg)
 

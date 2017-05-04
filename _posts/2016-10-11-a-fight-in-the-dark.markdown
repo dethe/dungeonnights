@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Fight in the Dark"
+title:  "Dungeon Nights: A Fight in the Dark"
 date:   2016-10-11 15:54:55 -0700
-categories: dungeonworld chronicle gargoyle centipede loot
+categories: dungeonworld gargoyle centipede loot dungeonnights
 ---
 ![Gargoyle Boss](http://magickalgraphics.com/Graphics/Dark/Gargoyles/gargoyle39.jpg)
 
