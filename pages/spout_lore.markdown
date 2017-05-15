@@ -10,10 +10,12 @@ Facts we have established about the world so far
 ### People and creatures of consequence
 
 * Aarin and Mokli - the "demons"
+* Alberge - Genesa's cousin, travels under pseudonym "Rovnik"
 * Arakgnash - The dragon-lich whose return to this world was foiled by our heroes.
 * Asterion - Minotaur librarian and master of the hidden labyrinth beneath Skagway.
 * Bob and Ralph Jr. - the party's horses (both mares)
 * The Dead Minstrel - Tsafnur's mentor
+* Devrik Feranthale - Genesa's evil uncle
 * Lord Feranthale of Kalika - Genesa's late father
 * Francis - Clovis' Drow boy-toy in the Night Market
 * Genesa - She is an elf, 239 years young. Was thought to be a runaway, but was sold into slavery by her uncle. Had travelled to Kalika for 5 days, but didn't return although her horse was found. Her father, Lord Feranthale of Kalika, hired Talisa to find her. Between her home and Kalika is the port town of Skagway. Her ancestral home is Orintheldir Manor.
@@ -23,9 +25,9 @@ Facts we have established about the world so far
 * The Lich Sorceress, one of the major hitters in the Night Market
 * Madame Obelis - Runs the highest class brothel in the Night Market
 * Nameless - Petty thief lord in Whyterun
-* Rovnik, paranoid and bloodthirsty elf who wants to kill all orcs
+* Rovnik, paranoid and bloodthirsty elf who wants to kill all orcs, turns out to really be Genesa's cousin Alberge, son of Devrik
 * Winston - Leader of the Thaumuturgy Crew.
-* Need names: Genesa's evil uncle, Farmer and family, the six-armed gargoyle lord
+* Need names: Farmer and family, the six-armed gargoyle lord
 
 
 ### Places
