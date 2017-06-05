@@ -19,7 +19,7 @@ The players for Dungeon Nights are:
 
 The players for Library of Dungeons are:
 
-* Mike as Hock the Fighter
+* Mike as Hawke the Fighter
 * Pavel as Rondo the Great Wizard
 * Alex as Hawthorn, Cleric of Zorika the Earth Mother
 
