@@ -41,4 +41,4 @@ In the initial confusion, Genesa's cousin Alberge and his main cronies escaped. 
 
 The party's wagon is brought to them. Bob and Ralph Jr. are in good health and happy to see them.
 
-> Full disclosure: Dracolich image found on Pinterest, it's from a Magic: The Gathering card by Lucas Graciono.
+> Full disclosure: Dracolich image found on Pinterest, it's from a Magic: The Gathering card by Lucas Graciano.
