@@ -12,7 +12,7 @@ The players for Dungeon Nights are:
 * Sara as Rook the Thief
 * Gloria as Chameleon the Druid (and many animals)
 * Tsafnur the Bard as Himself
-* Sarah as Clovis the Barbarian
+* Sarah as Genesa the Fighter, (and formerly Clovis the Barbarian)
 * Melody as Enkirash the Wizard
 * Marie as Talisa the Ranger and Mija the Watersphinx
 * Stephanie as Andrew Price, Cleric of Kirt the Clean
