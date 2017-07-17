@@ -16,6 +16,7 @@ The players for Dungeon Nights are:
 * Melody as Enkirash the Wizard
 * Marie as Talisa the Ranger and Mija the Watersphinx
 * Stephanie as Andrew Price, Cleric of Kirt the Clean
+* Mike as Agadar the Wizard
 
 The players for Library of Dungeons are:
 
