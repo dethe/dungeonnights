@@ -3,6 +3,7 @@ layout: post
 title:  "Library of Dungeons: Looking for Ruins in All the Wrong Places"
 date:   2017-05-01 15:54:55 -0700
 categories: dungeonworld libraryofdungeons armfiend goblins troll
+published: false
 ---
 
 <a href="http://smg.photobucket.com/user/mrbadexample/media/lamprey-fingaz.jpg.html" target="_blank"><img src="http://img.photobucket.com/albums/v50/mrbadexample/lamprey-fingaz.jpg" border="0" alt="lamprey fingaz"/></a>

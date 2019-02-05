@@ -14,19 +14,26 @@ Facts we have established about the world so far
 * Arakgnash - The dragon-lich whose return to this world was foiled by our heroes.
 * Asterion - Minotaur librarian and master of the hidden labyrinth beneath Skagway.
 * Bartleby - Genesa's horse (formerly her father's favourite horse)
+* Belden - Helga's (deceased) father
 * Bob and Ralph Jr. - the party's horses (both mares)
 * Brecht Vyring - an elvish scout
+* Cadis - Farmer who lives near Orintheldir Manor
+* Darryl - Helga's companion, a fiercely loyal orc teenager, Greta's son
 * The Dead Minstrel - Tsafnur's mentor
+* Delphnor - Dwarven cleric
 * Devrik Feranthale - Genesa's evil uncle
+* Elinka - A ciderfugionist who now works for Genesa
 * Lord Feranthale of Kalika - Genesa's late father
 * Francis - Clovis' Drow boy-toy in the Night Market
 * Genesa - She is an elf, 239 years young. Was thought to be a runaway, but was sold into slavery by her uncle. Had travelled to Kalika for 5 days, but didn't return although her horse was found. Her father, Lord Feranthale of Kalika, hired Talisa to find her. Between her home and Kalika is the port town of Skagway. Her ancestral home is Orintheldir Manor.
+* Gerol - son of a Cadis and helpful guide
 * Greta - An orc, survivor of the massacre that summoned Arakgnash, hired by Genesa to lead a team of orcs rebuilding her estate
 * Grumblesticks - Eater of dwarven children
 * Helga - Dwarf child rescued from the Grumblehut
 * Hilvy - Half-elf tracker hired to help find Grumblesticks
 * Hurbekt the Cruel - Enchanter and would-be necromancer, killed by the party when he attempted to summon Arakgnash.
 * Kaos, elf veteran that Enkirash met when she was separated from the party
+* Lainanne - Talisa's mother, a ranger (retired), lives in the woods far to the east
 * The Lich Sorceress, one of the major hitters in the Night Market
 * Madame Obelis - Runs the highest class brothel in the Night Market
 * Nameless - Petty thief lord in Whyterun
@@ -35,6 +42,7 @@ Facts we have established about the world so far
 * Rovnik, paranoid and bloodthirsty elf who wants to kill all orcs, turns out to really be Genesa's cousin Alberge, son of Devrik
 * Selene - Formerly a queen of Faerieland, imprisoned for centuries in ice (and impaled on icicles), now quite mad
 * Shadebolt the Wizard - someone the party was warned was hunting them
+* Thelian - Talisa's father, a politician and noble who lives in a village about 3 days west of Clovisdale.
 * Winston - Leader of the Thaumuturgy Crew.
 * Need names: Farmer and family, the six-armed gargoyle lord
 
@@ -43,9 +51,9 @@ Facts we have established about the world so far
 
 * Kalika - the capitol city of this land
 * Orintheldir Manor - Genesa's family home, now a fixer-upper.
-* Skagway - Gateway to the sea. There are extensive tunnels and catacombs underneath Skagway are three times as big as the city. Known entrances to the tunnels in the city are guarded, but others lead to the sea and are used by pirates and smugglers. Skagway is ruled by a Drow gang that controls several cities, the leader of this gang is a powerful Drow. Clovis has had a premonition of this guy. The Dead Minstrel died in Skagway.
+* Skagway - Gateway to the sea. There are extensive tunnels and catacombs underneath Skagway are three times as big as the city. Known entrances to the tunnels in the city are guarded, but others lead to the sea and are used by pirates and smugglers. Skagway is ruled by a Drow gang that controls several cities, the leader of this gang is a powerful Drow. Clovis has had a premonition of this guy. The Dead Minstrel died in Skagway. In the current campaign Skagway is a shadow of its former self, more of a ghost town.
 * Whitrun Where the party's adventures began.
-* Mysterious new town ??? - Heavily armed, filled with soldiers. Claims to be at war with elves. On a fork in the road where there was no fork before. There was no town either.
+* Weaseling - Mysterious new town - Heavily armed, filled with soldiers. Claims to be at war with elves. On a fork in the road where there was no fork before. There was no town either. In the new campaign this is a vigourous town where primarily elves and orcs live in relative harmony, and one of the centres of the resistance against the Mad Queen.
 * The Cozy Owlbear Inn - an inn in Skagway
 
 ### Things
@@ -61,11 +69,5 @@ Facts we have established about the world so far
 * Azure, God of secrets and hidden knowledge
 * Kirt the Clean
 * T'chalik the Unnerving
-
-## In the world of Library of Dungeons
-
-### Places
-
-* Thornwood, the town the players started from, possibly under attack by a troll
-
+* Thorgon, a regional Dwarf god
 

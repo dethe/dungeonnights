@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This chronicle is the summary of a story being created as a group. 
+This chronicle is the summary of a story being created as a group.
 
 The players for Dungeon Nights are:
 
@@ -12,10 +12,10 @@ The players for Dungeon Nights are:
 * Sara as Rook the Thief
 * Gloria as Chameleon the Druid (and many animals)
 * Tsafnur the Bard as Himself
-* Sarah as Genesa the Fighter, (and formerly Clovis the Barbarian)
-* Melody as Enkirash the Wizard
+* Sarah as Genesa the Elvish Fighter, (and formerly Clovis the Dwarven Barbarian)
+* Melody as Enkirash the Elvish Wizard
 * Marie as Talisa the Ranger and Mija the Watersphinx
-* Stephanie as Andrew Price, Cleric of Kirt the Clean
+* Stephanie as Andrew Price, Human Cleric of Kirt the Clean
 * Mike as Agadar the Wizard
 
 The players for Library of Dungeons are:

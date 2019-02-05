@@ -3,6 +3,7 @@ layout: post
 title:  "Library of Dungeons: Opening Doors"
 date:   2017-05-29 15:54:55 -0700
 categories: dungeonworld libraryofdungeons goblins bats key
+published: false
 ---
 
 ![Bat Swarm](http://images.nationalgeographic.com/wpf/media-live/photos/000/341/cache/philippines-bat-cave-huge-population-close-up_34159_600x450.jpg)

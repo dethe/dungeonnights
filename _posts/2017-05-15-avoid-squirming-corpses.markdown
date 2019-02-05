@@ -3,6 +3,7 @@ layout: post
 title:  "Library of Dungeons: Avoid Squirming Corpses"
 date:   2017-05-15 15:54:55 -0700
 categories: dungeonworld libraryofdungeons serpentball gutbuster goblins
+published: false
 ---
 
 ![Ball of Serpents](https://s-media-cache-ak0.pinimg.com/564x/3f/9d/fa/3f9dfaa049dfca7e0662dc3119eb90d1.jpg)
