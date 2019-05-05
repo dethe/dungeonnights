@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Babysitter"
+title: "Babysitting"
 date: 2019-04-29 15:54:55 -0700
 categories: dungeonworld underworld job ambush connections
 ---
@@ -12,6 +12,8 @@ categories: dungeonworld underworld job ambush connections
 > Notable NPCs: Barbat and Dramyin the Galdulkas, Khuthalius the dapper orc, Anzad and Nykckeltharpa envoys to the Galdulkas
 
 > Hadri, Harekki, Stone Giant, Vorodla, Giant Hornet, Galdulkas, Mimics, Constructs
+
+> "Because you know you play D&D to imagine young beholders frolicking." [Telecanter's Receding Rules](https://recedingrules.blogspot.com/2011/11/what-are-monsters-doing.html)
 
 -   Walking through a forest of hexagonal crystal-like stone pillars
 -   Bell traps
@@ -31,4 +33,4 @@ categories: dungeonworld underworld job ambush connections
 -   Using Mud's grappling gun (a gift from the Galdulkas) they fled up to the rafters of the stone hut and Obsidia conjured a wall of fire to herd the panicked mimics out the door. As it happens, orcs were just about to come in the door to investigate the missing guards: two of them ended up inside the first mimics. The dapper orc was behind them and looked bemused, but did not see the party hiding above.
 -   Escaping through the roof, they grappled (on the third try) the roof to swing to the wall they'd climbed up. Obsidia provided covering fire with the pyro she'd been given by the Galdulkas, killing several orcs (and wounding the dapper orc in the leg) with the grapeshot bomb and providing a lot of smoke as cover. Only a few orcs were able to recover enough to fire arrows as they swung to the wall.
 -   Running back down the wall, Obsidia waited until orcs had started down the passage below, then hit it with her sticky fire bomb, blocking the passage with flaming orcs.
--   On the way down they encountered the orc sentries coming up to see what the ruckus was, one on each wall
+-   On the way down they encountered the orc sentries coming up to see what the ruckus was, one on each wall. Dispatched the sentries and continued on to the sitting room where the GAldulkas were waiting. The party was rewarded, re-equipped, allowed to keep their equipment, and got to see baby beholders frolicking in the garden.
