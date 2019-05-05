@@ -11,7 +11,7 @@ categories: dungeonworld underworld job ambush connections
 
 > Notable NPCs: Barbat and Dramyin the Galdulkas, Khuthalius the dapper orc, Anzad and Nykckeltharpa envoys to the Galdulkas
 
-> Hadri, Harekki, Stone Giant, Vorodla, Giant Hornet, Galdulkas, Mimics, Constructs
+> Monsters and creatures: Hadri, Harekki, Stone Giant, Vorodla, Giant Hornet, Galdulkas, Mimics, Constructs
 
 > "Because you know you play D&D to imagine young beholders frolicking." [Telecanter's Receding Rules](https://recedingrules.blogspot.com/2011/11/what-are-monsters-doing.html)
 
