@@ -34,3 +34,7 @@ categories: dungeonworld underworld job ambush connections
 -   Escaping through the roof, they grappled (on the third try) the roof to swing to the wall they'd climbed up. Obsidia provided covering fire with the pyro she'd been given by the Galdulkas, killing several orcs (and wounding the dapper orc in the leg) with the grapeshot bomb and providing a lot of smoke as cover. Only a few orcs were able to recover enough to fire arrows as they swung to the wall.
 -   Running back down the wall, Obsidia waited until orcs had started down the passage below, then hit it with her sticky fire bomb, blocking the passage with flaming orcs.
 -   On the way down they encountered the orc sentries coming up to see what the ruckus was, one on each wall. Dispatched the sentries and continued on to the sitting room where the GAldulkas were waiting. The party was rewarded, re-equipped, allowed to keep their equipment, and got to see baby beholders frolicking in the garden.
+
+-   Treasure gained: bag of holding, immovable rod, phylactery of Krillenae, 2 healing potions each, 2 "grapeshot bombs", 6 flash mushrooms, a bunch of coins and jewelry, an elven cloak and elven boots each (+2 stealth)
+
+-   Everyone levelled up!
