@@ -72,7 +72,6 @@ Facts we have established about the world so far
 
 * Bitey 2 - Clovis' axe
 * Book Bound in Pale Leather - Tsafnur's mysterious songbook
-* The False Chantarelle - an apparently indistructible painting of a naked woman in chains, said to be a portal to another world
 * Galdulka - Round, floating creatures with one large eye and many eyestalks, ferociously intelligent and extremely powerful, devoted parents.
 * Hadrekki - Small, colourful dragons kept as pets and familiars. Smart and loyal.
 * Hadri - One of the reptile races, humanoid, but with a mass of snakes where their neck and head should be. Often use illusions to pass as human.
