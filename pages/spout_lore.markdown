@@ -38,12 +38,14 @@ Facts we have established about the world so far
 * Hilvy - Half-elf tracker hired to help find Grumblesticks
 * Hurbekt the Cruel - Enchanter and would-be necromancer, killed by the party when he attempted to summon Arakgnash.
 * Igil - A one-armed stone giant, servant of Barbat and Dramyin
+* Josh - Huge half-orc, accompanies the Shadowwalker
 * Kaos, elf veteran that Enkirash met when she was separated from the party
 * Kobyz - A Harekki, familiar (or similar relatinoship) to Nykckeltharpa
 * Khuthalius - The dapper orc
 * Lainanne - Talisa's mother, a ranger (retired), lives in the woods far to the east
 * The Lich Sorceress, one of the major hitters in the Night Market
 * Madame Obelis - Runs the highest class brothel in the Night Market
+* Magog - Obsidia's pet hellhound
 * Moloch the Summoner - A powerful demon summoner the players fought, who escaped and swore vengeance on them
 * Maguhu - An immense vorodla, one of Dramyin's servants
 * Nameless - Petty thief lord in Whyterun
@@ -53,6 +55,7 @@ Facts we have established about the world so far
 * Rovnik, paranoid and bloodthirsty elf who wants to kill all orcs, turns out to really be Genesa's cousin Alberge, son of Devrik
 * Selene - Formerly a queen of Faerieland, imprisoned for centuries in ice (and impaled on icicles), now quite mad
 * Shadebolt the Wizard - someone the party was warned was hunting them
+* Shadowwalker, The - mysterious and feared figure of the underworld
 * Thelian - Talisa's father, a politician and noble who lives in a village about 3 days west of Clovisdale.
 * Winston - Leader of the Thaumuturgy Crew.
 * Yehu - A battered brass spider-lion, one of Barbat's servants
